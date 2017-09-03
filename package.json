@@ -1,0 +1,11 @@
+{
+  "name": "deck-builder",
+  "version": "1.0.0",
+  "description": "Flashcard Deck Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Jones <chadananda@gmail.com> (http://bahai-education.org/)",
+  "license": "ISC"
+}
